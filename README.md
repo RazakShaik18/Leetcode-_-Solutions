@@ -14,6 +14,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0202-happy-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |

@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## String

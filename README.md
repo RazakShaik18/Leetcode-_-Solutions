@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0709-to-lower-case/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

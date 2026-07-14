@@ -29,6 +29,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Simulation

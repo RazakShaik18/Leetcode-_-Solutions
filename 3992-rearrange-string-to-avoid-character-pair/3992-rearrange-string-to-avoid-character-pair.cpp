@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
 public:
     string rearrangeString(string s, char x, char y) {
         string group_1 = "";
@@ -19,4 +19,16 @@ public:
         ans = group_2+group_3+group_1;
         return ans;
     }
+};*/
+
+
+class Solution {
+public:
+    string rearrangeString(string s, char x, char y) {
+        for(int i = 0, j = 0; i < s.length(); i++) {
+            if(s[i] == y) swap(s[i], s[j++]);
+        }
+        return s;
+    }
 };
+

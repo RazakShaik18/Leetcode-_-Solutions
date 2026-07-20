@@ -28,6 +28,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -86,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

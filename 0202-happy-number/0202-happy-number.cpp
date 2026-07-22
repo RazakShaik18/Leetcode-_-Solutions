@@ -8,7 +8,6 @@ public:
             return false;
            }
            seen.insert(n);
-            
            while(n>0){
             int digit = n%10;
             sum += digit*digit;

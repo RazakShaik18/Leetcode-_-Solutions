@@ -12,7 +12,6 @@ public:
             else if(i%5==0){
                 ans.push_back("Buzz");
             }
-           
             else{
                 ans.push_back(to_string(i));
             }

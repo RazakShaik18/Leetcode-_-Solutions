@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -57,6 +58,7 @@
 | [0202-happy-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |

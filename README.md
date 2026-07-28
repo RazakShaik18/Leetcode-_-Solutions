@@ -53,6 +53,7 @@
 | [2427-number-of-common-factors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2652-sum-multiples](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |

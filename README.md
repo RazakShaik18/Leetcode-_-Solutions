@@ -26,6 +26,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -84,6 +85,7 @@
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

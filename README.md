@@ -20,6 +20,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -60,6 +61,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Two Pointers

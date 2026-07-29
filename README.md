@@ -30,6 +30,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2942-find-words-containing-character](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Math
@@ -86,6 +87,7 @@
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2942-find-words-containing-character](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -36,6 +36,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -86,6 +87,7 @@
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -122,6 +125,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

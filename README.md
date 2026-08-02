@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -53,6 +54,7 @@
 | [0263-ugly-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0507-perfect-number/) | Easy |
+| [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -187,4 +189,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->

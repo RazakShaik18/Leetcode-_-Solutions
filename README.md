@@ -16,6 +16,7 @@
 | [0204-count-primes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -87,6 +88,7 @@
 | [0027-remove-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -127,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -144,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Number Theory

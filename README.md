@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -176,6 +177,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Counting Sort

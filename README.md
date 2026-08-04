@@ -46,6 +46,7 @@
 | [2942-find-words-containing-character](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +138,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

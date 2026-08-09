@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0724-find-pivot-index/) | Easy |

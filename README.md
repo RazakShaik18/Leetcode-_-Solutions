@@ -43,6 +43,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -197,6 +198,7 @@
 | [0724-find-pivot-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -5,8 +5,8 @@ public:
         sort(nums.begin(),nums.end());
         int maximized = 0;
         for(int i = 0;i<n-1;i+=2){
-            int pair = min(nums[i],nums[i+1]);
-            maximized += pair;
+            
+            maximized += nums[i];
 
         }
         return maximized;

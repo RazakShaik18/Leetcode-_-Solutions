@@ -8,7 +8,7 @@ public:
                 ans += "[.]";
             }
             else {
-                ans.push_back(c);
+                ans+=c;
             }
         }
 

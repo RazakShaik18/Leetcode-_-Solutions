@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0414-third-maximum-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
@@ -144,6 +145,7 @@
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |

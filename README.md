@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0136-single-number/) | Easy |
@@ -222,6 +223,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -236,6 +238,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Game Theory

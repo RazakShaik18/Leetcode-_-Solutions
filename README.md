@@ -116,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0389-find-the-difference/) | Easy |

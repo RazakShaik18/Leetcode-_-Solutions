@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
+        // this method take sc of o(n)
         string ans;
 
         for(char ch : s) {

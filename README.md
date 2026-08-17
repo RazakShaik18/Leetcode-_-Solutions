@@ -38,6 +38,7 @@
 | [1470-shuffle-the-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -131,6 +132,7 @@
 | [0771-jewels-and-stones](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |

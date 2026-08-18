@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -100,6 +101,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0682-baseball-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -197,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0682-baseball-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0682-baseball-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

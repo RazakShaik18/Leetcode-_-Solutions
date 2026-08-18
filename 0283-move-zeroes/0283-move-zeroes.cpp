@@ -7,6 +7,8 @@ public:
             swap(nums[slow],nums[fast]);
             slow++;
            }
+           // without using swap
+           
 
         }
     }

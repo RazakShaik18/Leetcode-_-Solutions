@@ -1,7 +1,7 @@
 class Solution {
 public:
     int smallestEvenMultiple(int n) {
-        if(n==1){
+        /*if(n==1){
             return 2;
         }
         int ans = INT_MAX;
@@ -11,6 +11,12 @@ public:
                 ans = min(ans,num);
             }
         }
-        return ans;
+        return ans;*/
+
+        if(n % 2 == 0) {
+            return n;
+        }
+        return 2 * n;
+ 
     }
 };

@@ -83,6 +83,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2235-add-two-integers/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2469-convert-the-temperature](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -215,6 +216,7 @@
 | [0204-count-primes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Enumeration

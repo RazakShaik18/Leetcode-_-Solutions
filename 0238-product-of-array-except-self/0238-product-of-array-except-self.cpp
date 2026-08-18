@@ -16,7 +16,7 @@ public:
             suf[i] = suf[i+1]*nums[i+1];
         }
 
-        for(int i = 0 ; i<n; i++){
+        for(int i = 0; i<n; i++){
             ans.push_back(pre[i] * suf[i]);
 
         }

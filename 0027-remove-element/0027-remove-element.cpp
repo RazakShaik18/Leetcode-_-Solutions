@@ -5,9 +5,10 @@ public:
         for(int fast = 0 ; fast<nums.size(); fast++){
             if(val != nums[fast]){
                 nums[slow] = nums[fast];
-            slow++;
+             slow++;
             }
         }
         return slow;
     }
 };
+

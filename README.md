@@ -103,6 +103,7 @@
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -119,6 +120,7 @@
 | [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -137,6 +139,7 @@
 | [0657-robot-return-to-origin](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [0844-backspace-string-compare](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -202,6 +205,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0844-backspace-string-compare](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

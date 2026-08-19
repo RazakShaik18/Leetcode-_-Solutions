@@ -16,6 +16,7 @@ public:
             }
         }
 
-        return abs(pos) + cnt;
+        //return abs(pos) + cnt;
+       return max(abs(pos + cnt), abs(pos - cnt));
     }
 };

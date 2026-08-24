@@ -54,6 +54,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -120,6 +121,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
@@ -187,6 +189,7 @@
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -206,6 +209,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |

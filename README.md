@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0136-single-number/) | Easy |
@@ -117,6 +118,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -301,6 +303,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |

@@ -2,7 +2,7 @@ class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
 
-        /*int mn = *min_element(nums1.begin(), nums1.end());
+        int mn = *min_element(nums1.begin(), nums1.end());
 
         // Minimum element cannot be changed,
         // so its parity decides the target.
@@ -38,15 +38,15 @@ public:
             }
         }
 
-        return true;*/
-         int mn = *min_element(nums1.begin(), nums1.end());
+        return true;
+         /*int mn = *min_element(nums1.begin(), nums1.end());
         if (mn % 2 == 1)
             return true;
         for (int x : nums1) {
             if (x % 2 == 1)
                 return false;
         }
-        return true;
+        return true;*/
     }
     
 };

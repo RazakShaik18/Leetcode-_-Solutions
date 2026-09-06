@@ -240,6 +240,7 @@
 | [0069-sqrtx](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -377,6 +378,7 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |

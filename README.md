@@ -54,6 +54,7 @@
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -105,6 +106,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2235-add-two-integers/) | Easy |

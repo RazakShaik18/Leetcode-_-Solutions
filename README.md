@@ -125,6 +125,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Simulation

@@ -36,6 +36,7 @@
 | [0682-baseball-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -231,6 +232,7 @@
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0645-set-mismatch/) | Easy |
+| [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -266,6 +268,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0682-baseball-game/) | Easy |
+| [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0844-backspace-string-compare](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -336,6 +339,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
+| [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -393,4 +397,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 <!---LeetCode Topics End-->

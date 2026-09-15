@@ -41,6 +41,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1051-height-checker/) | Easy |
@@ -171,6 +172,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
@@ -238,6 +240,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |

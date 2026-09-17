@@ -71,6 +71,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -121,6 +122,7 @@
 | [2235-add-two-integers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |

@@ -119,6 +119,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |

@@ -68,6 +68,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2057-smallest-index-with-equal-value](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |

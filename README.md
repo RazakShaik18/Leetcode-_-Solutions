@@ -98,6 +98,7 @@
 | [3903-smallest-stable-index-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +202,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +395,7 @@
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

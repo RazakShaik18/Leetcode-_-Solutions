@@ -154,6 +154,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3959-check-good-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3959-check-good-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3959-check-good-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

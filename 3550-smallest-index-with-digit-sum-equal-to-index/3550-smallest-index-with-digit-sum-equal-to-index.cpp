@@ -3,21 +3,21 @@ public:
     int smallestIndex(vector<int>& nums) {
         int n = nums.size();
         int ans = INT_MAX;
-        for(int i = 0; i<n;i++){
+
+        for(int i = 0; i < n; i++) {
+            int x = nums[i];
             int sum = 0;
-            while(nums[i]>0){
-                int digit = nums[i]%10;
-                sum += digit;
-                nums[i]/=10;
+
+            while(x > 0) {
+                sum += x % 10;
+                x /= 10;
             }
-            if(sum == i){
-                ans = min(ans,i);
-                
+
+            if(sum == i) {
+                ans = min(ans, i);
             }
         }
-        if(ans == INT_MAX){
-            return -1;
-        }
-        return ans;
+
+        return ans == INT_MAX ? -1 : ans;
     }
 };

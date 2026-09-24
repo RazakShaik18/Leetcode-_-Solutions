@@ -329,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -381,6 +382,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

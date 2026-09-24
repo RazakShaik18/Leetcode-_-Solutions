@@ -114,6 +114,7 @@
 | [0258-add-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0441-arranging-coins/) | Easy |
@@ -334,6 +335,7 @@
 | [0231-power-of-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -424,6 +426,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |

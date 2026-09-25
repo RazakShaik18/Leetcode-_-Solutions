@@ -66,6 +66,7 @@
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1816-truncate-sentence](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -229,6 +230,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1816-truncate-sentence](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |

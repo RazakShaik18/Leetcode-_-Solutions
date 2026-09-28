@@ -224,6 +224,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -258,6 +259,7 @@
 | [0041-first-missing-positive](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |

@@ -52,6 +52,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -264,6 +265,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
+| [1122-relative-sort-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -295,6 +297,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -390,6 +393,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -486,6 +490,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -494,4 +499,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->

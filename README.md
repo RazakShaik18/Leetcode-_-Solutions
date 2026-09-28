@@ -243,6 +243,7 @@
 | [2942-find-words-containing-character](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3798-largest-even-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3798-largest-even-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

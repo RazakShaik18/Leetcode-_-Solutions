@@ -105,6 +105,7 @@
 | [3903-smallest-stable-index-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3978-unique-middle-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3978-unique-middle-element/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -410,6 +411,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3978-unique-middle-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3978-unique-middle-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

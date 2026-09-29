@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -261,6 +262,7 @@
 | [0202-happy-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -519,4 +521,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1952-three-divisors/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->

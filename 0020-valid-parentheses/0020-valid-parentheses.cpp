@@ -8,6 +8,11 @@ public:
                 st.push(a);
             }
             //cases-02 if any closing bracket comes check where the stack top contain open bracket or not 
+           
+            /*if(!st.empty() && ((a == ')' && st.top() != '(') || (a == ']' && st.top() != '[') || (a == '}' && st.top() != '{'))){
+                return false;
+            st.pop();
+            }*/
             else {
                 if(st.empty()) return false;
 

@@ -522,6 +522,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |

@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -204,6 +205,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0125-valid-palindrome/) | Easy |

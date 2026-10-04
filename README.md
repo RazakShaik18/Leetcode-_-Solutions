@@ -106,6 +106,7 @@
 | [3701-compute-alternating-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -332,6 +333,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |

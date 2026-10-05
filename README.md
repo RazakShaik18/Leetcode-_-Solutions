@@ -118,6 +118,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -491,6 +492,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -570,4 +572,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

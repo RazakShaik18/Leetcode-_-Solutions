@@ -96,6 +96,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -413,6 +414,7 @@
 | [1952-three-divisors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1952-three-divisors/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |

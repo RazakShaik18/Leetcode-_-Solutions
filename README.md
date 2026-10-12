@@ -99,6 +99,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2942-find-words-containing-character](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -301,6 +302,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -397,6 +399,7 @@
 | [0645-set-mismatch](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +473,7 @@
 | [0410-split-array-largest-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Dynamic Programming

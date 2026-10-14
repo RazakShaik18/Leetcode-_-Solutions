@@ -171,6 +171,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -475,6 +476,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/4014-minimum-total-price-after-applying-discounts/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |

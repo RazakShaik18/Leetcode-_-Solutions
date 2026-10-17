@@ -171,6 +171,7 @@
 | [2651-calculate-delayed-arrival-time](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2806-account-balance-after-rounded-purchase](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |

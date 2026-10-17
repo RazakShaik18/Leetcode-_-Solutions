@@ -135,6 +135,7 @@
 | [0258-add-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -499,6 +500,7 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -610,10 +612,20 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Impartial Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1025-divisor-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->

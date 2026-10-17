@@ -166,6 +166,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2651-calculate-delayed-arrival-time](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2652-sum-multiples](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |

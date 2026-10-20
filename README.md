@@ -635,4 +635,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0292-nim-game/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->

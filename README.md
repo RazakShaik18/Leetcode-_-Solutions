@@ -644,6 +644,7 @@
 | [0196-delete-duplicate-emails](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0577-employee-bonus/) | Easy |
+| [0601-human-traffic-of-stadium](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0601-human-traffic-of-stadium/) | Hard |
 | [0607-sales-person](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0607-sales-person/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |

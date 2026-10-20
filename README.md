@@ -645,4 +645,5 @@
 | [0511-game-play-analysis-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0607-sales-person/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 <!---LeetCode Topics End-->

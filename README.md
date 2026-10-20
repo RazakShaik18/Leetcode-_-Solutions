@@ -647,4 +647,5 @@
 | [0607-sales-person](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0607-sales-person/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1280-students-and-examinations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 <!---LeetCode Topics End-->

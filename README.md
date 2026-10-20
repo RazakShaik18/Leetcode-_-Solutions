@@ -643,4 +643,5 @@
 | [0182-duplicate-emails](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->

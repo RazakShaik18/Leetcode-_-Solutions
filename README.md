@@ -82,6 +82,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -313,6 +314,7 @@
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
@@ -431,6 +433,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1952-three-divisors/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |

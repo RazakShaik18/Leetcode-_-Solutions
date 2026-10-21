@@ -284,6 +284,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3798-largest-even-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3798-largest-even-number/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

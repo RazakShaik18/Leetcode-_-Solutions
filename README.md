@@ -109,6 +109,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -418,6 +419,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

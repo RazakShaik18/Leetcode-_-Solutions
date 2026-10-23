@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0066-plus-one/) | Easy |
@@ -253,6 +254,7 @@
 | [0020-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0049-group-anagrams](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -292,6 +294,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -328,6 +331,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0217-contains-duplicate/) | Easy |

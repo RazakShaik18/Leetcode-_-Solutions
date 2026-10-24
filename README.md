@@ -191,6 +191,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3790-smallest-all-ones-multiple](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 | [3870-count-commas-in-range](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -331,6 +332,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3790-smallest-all-ones-multiple](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3790-smallest-all-ones-multiple/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

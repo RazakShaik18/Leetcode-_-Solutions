@@ -115,6 +115,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3788-maximum-score-of-a-split](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -458,6 +459,7 @@
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3788-maximum-score-of-a-split](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Counting Sort

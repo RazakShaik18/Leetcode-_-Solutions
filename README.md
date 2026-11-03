@@ -116,6 +116,7 @@
 | [3701-compute-alternating-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -192,6 +193,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |

@@ -112,6 +112,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -474,6 +475,7 @@
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -625,6 +627,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

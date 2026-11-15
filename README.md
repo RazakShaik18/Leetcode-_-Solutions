@@ -73,6 +73,7 @@
 | [1470-shuffle-the-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -165,6 +166,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1952-three-divisors](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1952-three-divisors/) | Easy |
@@ -472,6 +474,7 @@
 | [0410-split-array-largest-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0724-find-pivot-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -535,6 +538,7 @@
 | [0509-fibonacci-number](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1025-divisor-game/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

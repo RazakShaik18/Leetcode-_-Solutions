@@ -100,6 +100,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -382,6 +383,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -525,6 +527,7 @@
 | [0410-split-array-largest-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0561-array-partition/) | Easy |
 | [0769-max-chunks-to-make-sorted](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |

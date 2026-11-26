@@ -193,6 +193,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3516-find-closest-person](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -231,6 +232,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/skabdulrazak18-hue/Leetcode-_-Solutions/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
